@@ -1,0 +1,16 @@
+{
+    "name": "profitofexile",
+    "version": "1.0.0",
+    "description": "Analyse your profit in path of exile",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["poe", "profit"],
+    "author": "Holyverz Tris790",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.16.2",
+        "node-fetch": "^1.7.3"
+    }
+}
