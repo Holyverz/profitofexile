@@ -6,11 +6,16 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": ["poe", "profit"],
+    "keywords": [
+        "poe",
+        "profit"
+    ],
     "author": "Holyverz Tris790",
     "license": "MIT",
     "dependencies": {
         "express": "^4.16.2",
+        "firebase": "^4.9.0",
+        "firebase-admin": "^5.8.1",
         "node-fetch": "^1.7.3"
     }
 }
